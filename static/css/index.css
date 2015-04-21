@@ -1,0 +1,38 @@
+section {
+	top: 0;
+	left: 0;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	background-image: linear-gradient(#78CA78, #D6EFD6);
+}
+.title {
+	text-align: center;
+	height: auto;
+	margin-top: 20px;
+	margin: 0 auto;
+	font-size: 50px;
+}
+li {
+	padding: 0;
+	display: table;
+	list-style: none;
+	margin: 0 auto;
+}
+ul {
+}
+.login {
+	padding-top: 100px;
+}
+.button {
+	border-radius: 5px;
+	background-color: transparent;
+	border: 1px solid white;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+.input {
+	padding-bottom: 10px;
+}
